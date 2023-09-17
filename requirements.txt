@@ -1,0 +1,6 @@
+langchain
+openai
+google-search-results
+langchain-experimental
+tiktoken
+yfinance
